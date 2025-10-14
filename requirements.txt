@@ -1,0 +1,23 @@
+# BERT and ML dependencies
+transformers
+torch
+numpy
+scikit-learn
+sentencepiece
+protobuf
+
+# FastAPI dependencies
+fastapi
+uvicorn[standard]
+pydantic
+
+# Optional: for better performance
+# torch==2.1.0
+# transformers==4.35.0
+# numpy==1.24.3
+# scikit-learn==1.3.0
+# sentencepiece==0.1.99
+# protobuf==4.24.4
+# fastapi==0.104.1
+# uvicorn[standard]==0.24.0
+# pydantic==2.5.0
